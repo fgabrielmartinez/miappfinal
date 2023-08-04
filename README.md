@@ -1,3 +1,3 @@
 # miappfinal
 
-A new Flutter project.
+App para gestionar tareas de mantenimiento en una empresa.
